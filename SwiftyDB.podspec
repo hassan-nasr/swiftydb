@@ -30,6 +30,6 @@ Pod::Spec.new do |s|
 
   s.source_files = 'Pod/Classes/**/*'
 
-  s.dependency 'TinySQLite', '~> 0.3.0'
+  s.dependency 'TinySQLite', '~> 0.3'
   
 end
